@@ -1,4 +1,3 @@
-# REST-API
 # Goal
 - REST의 개념을 이해한다.
 - REST의 특징을 이해한다.
