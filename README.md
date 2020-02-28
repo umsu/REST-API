@@ -153,6 +153,7 @@
 
 
 # RESTful의 개념
+![image](https://user-images.githubusercontent.com/34269126/75516473-eb93e880-5a3f-11ea-8161-d750d1130a61.png)
 
 -   RESTful이란
     -   RESTful은 일반적으로 REST라는 아키텍처를 구현하는 웹  서비스를 나타내기 위해 사용되는 용어이다.
