@@ -152,7 +152,7 @@
 
 
 
-# RESRful의 개념
+# RESTful의 개념
 
 -   RESTful이란
     -   RESTful은 일반적으로 REST라는 아키텍처를 구현하는 웹  서비스를 나타내기 위해 사용되는 용어이다.
